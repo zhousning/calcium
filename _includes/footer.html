@@ -9,13 +9,11 @@
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              <a href="{{ site.resumeurl }}">个人简历</a></li>
             {% else %}
               {{ site.title | escape }}
             {% endif %}
             </li>
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
       </div>
