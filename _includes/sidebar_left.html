@@ -1,0 +1,14 @@
+<img src="{{ site.baseurl }}/assets/images/erweima.png" class="img-responsive"/>
+<h3 class="text-center">
+  {{ site.author }}
+</h3>
+<p> 
+  开发者群：{{ site.group }}
+</p>
+<div class="row">
+  {% for goods in site.data.config.taobao.goods %}
+   <a href="{{ goods.url }}" target="_blank" class="thumbnail">
+    <img src="{{ site.baseurl }}{{ goods.img }}" class="img-responsive"/>
+   </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,39 @@
+tools:
+  Java:
+    - { title: "JDK", url: "https://pan.baidu.com/s/1i4Lg1vf", lang: "java" }
+    - { title: "Eclipse", url: "https://pan.baidu.com/s/1bo7f63d", lang: "java" }
+    - { title: "MyEclipse", url: "https://pan.baidu.com/s/1co0Vzo", lang: "java" }
+  Python:
+    - { title: "Ubuntu16", url: "https://pan.baidu.com/s/1skP9RyP", lang: "python" }
+  PHP:
+    - { title: "PHP", url: "https://pan.baidu.com/s/1bUOjbo", lang: "php" }
+    - { title: "WampServer", url: "https://pan.baidu.com/s/1geVtOxt", lang: "php" }
+    - { title: "AppServ", url: "https://pan.baidu.com/s/1c2en53i", lang: "php" }
+    - { title: "Xampp", url: "https://pan.baidu.com/s/1bp0AjuR", lang: "php" }
+  Android:
+    - { title: "Android SDK", url: "https://pan.baidu.com/s/1c1DPccg", lang: "android" }
+    - { title: "Android Studio", url: "https://pan.baidu.com/s/1dFxOoUH", lang: "android" }
+    - { title: "ADT Bundle", url: "https://pan.baidu.com/s/1i5BnquT", lang: "android" }
+  .Net:
+    - { title: "Visual Studio", url: "https://pan.baidu.com/s/1o8G2OH0", lang: "net" }
+  web:
+    - { title: "Dreamweaver", url: "https://pan.baidu.com/s/1bGBd5k", lang: "web" }
+    - { title: "Notepad++", url: "https://pan.baidu.com/s/1cITosQ", lang: "web" }
+    - { title: "Sublime", url: "https://pan.baidu.com/s/1mikcUYs", lang: "web" }
+    - { title: "Photoshop", url: "https://pan.baidu.com/s/1dFmtavv", lang: "web" }
+  DataBase:
+    - { title: "MySQL", url: "https://pan.baidu.com/s/1eR5DBDS", lang: "database" }
+    - { title: "SQLServer", url: "https://pan.baidu.com/s/1bHXcwY", lang: "database" }
+    - { title: "Oracle", url: "https://pan.baidu.com/s/1bpKnfrT", lang: "database" }
+types:
+  soft: "soft"
+  guide: "guide"
+taobao:
+  shope: { title: "官方站点", url: "https://shop527029490.taobao.com/" }
+  goods:
+    - { title: "JAVA开发教程", url: "https://item.taobao.com/item.htm?id=545377305633", img: "/assets/images/goods_java.jpg" }
+    - { title: "Python开发教程", url: "https://item.taobao.com/item.htm?id=545284986484", img: "/assets/images/goods_python.jpg" }
+    - { title: "Web前端开发教程", url: "https://item.taobao.com/item.htm?id=544584137056", img: "/assets/images/goods_web.jpg" }
+    - { title: "PHP开发教程", url: "https://item.taobao.com/item.htm?id=545025202926", img: "/assets/images/goods_php.jpg" }
+    - { title: "Android开发教程", url: "https://item.taobao.com/item.htm?id=545464233364", img: "/assets/images/goods_android.jpg" }
+    - { title: "C#.NET开发教程", url: "https://item.taobao.com/item.htm?id=546130280148", img: "/assets/images/goods_net.jpg" }
