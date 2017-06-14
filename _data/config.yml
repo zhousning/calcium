@@ -5,6 +5,7 @@ tools:
     - { title: "MyEclipse", url: "https://pan.baidu.com/s/1co0Vzo", lang: "java" }
   Python:
     - { title: "Ubuntu16", url: "https://pan.baidu.com/s/1skP9RyP", lang: "python" }
+    - { title: "Vmware Workstation", url: "https://pan.baidu.com/s/1mi2uDFq", lang: "python" }
   PHP:
     - { title: "PHP", url: "https://pan.baidu.com/s/1bUOjbo", lang: "php" }
     - { title: "WampServer", url: "https://pan.baidu.com/s/1geVtOxt", lang: "php" }
@@ -20,11 +21,15 @@ tools:
     - { title: "Dreamweaver", url: "https://pan.baidu.com/s/1bGBd5k", lang: "web" }
     - { title: "Notepad++", url: "https://pan.baidu.com/s/1cITosQ", lang: "web" }
     - { title: "Sublime", url: "https://pan.baidu.com/s/1mikcUYs", lang: "web" }
-    - { title: "Photoshop", url: "https://pan.baidu.com/s/1dFmtavv", lang: "web" }
+    - { title: "Photoshop", url: "https://pan.baidu.com/s/1miBOhw0", lang: "web" }
   DataBase:
     - { title: "MySQL", url: "https://pan.baidu.com/s/1eR5DBDS", lang: "database" }
     - { title: "SQLServer", url: "https://pan.baidu.com/s/1bHXcwY", lang: "database" }
     - { title: "Oracle", url: "https://pan.baidu.com/s/1bpKnfrT", lang: "database" }
+  版本控制:
+    - { title: "SVN", url: "https://pan.baidu.com/s/1i59Swct", lang: "version" }
+  服务器:
+    - { title: "Windows Server", url: "https://pan.baidu.com/s/1pKGl2GF", lang: "server" }
 types:
   soft: "soft"
   guide: "guide"
