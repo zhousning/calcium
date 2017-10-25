@@ -21,7 +21,7 @@ tools:
     - { title: "Dreamweaver", url: "https://pan.baidu.com/s/1bGBd5k", lang: "web" }
     - { title: "Notepad++", url: "https://pan.baidu.com/s/1cITosQ", lang: "web" }
     - { title: "Sublime", url: "https://pan.baidu.com/s/1mikcUYs", lang: "web" }
-    - { title: "Photoshop", url: "https://pan.baidu.com/s/1miBOhw0", lang: "web" }
+    #- { title: "Photoshop", url: "https://pan.baidu.com/s/1miBOhw0", lang: "web" }
   DataBase:
     - { title: "MySQL", url: "https://pan.baidu.com/s/1eR5DBDS", lang: "database" }
     - { title: "SQLServer", url: "https://pan.baidu.com/s/1bHXcwY", lang: "database" }
