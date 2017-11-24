@@ -33,11 +33,13 @@ tools:
 types:
   soft: "soft"
   guide: "guide"
+bafangjie:
+  site: { title: "官方站点", url: "https://www.bafangjie.cn" }
 taobao:
   shope: { title: "官方站点", url: "https://shop527029490.taobao.com/" }
   goods:
-    - { title: "JAVA开发教程", url: "https://item.taobao.com/item.htm?id=545377305633", img: "/assets/images/goods_java.jpg" }
-    - { title: "Python开发教程", url: "https://item.taobao.com/item.htm?id=545284986484", img: "/assets/images/goods_python.jpg" }
+    - { title: "JAVA开发教程", url: "https://item.taobao.com/item.htm?id=553819389547", img: "/assets/images/goods_java.jpg" }
+    - { title: "Python开发教程", url: "https://item.taobao.com/item.htm?id=556401365854", img: "/assets/images/goods_python.jpg" }
     - { title: "Web前端开发教程", url: "https://item.taobao.com/item.htm?id=544584137056", img: "/assets/images/goods_web.jpg" }
     - { title: "PHP开发教程", url: "https://item.taobao.com/item.htm?id=545025202926", img: "/assets/images/goods_php.jpg" }
     - { title: "Android开发教程", url: "https://item.taobao.com/item.htm?id=545464233364", img: "/assets/images/goods_android.jpg" }
