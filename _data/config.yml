@@ -34,7 +34,7 @@ types:
   soft: "soft"
   guide: "guide"
 bafangjie:
-  site: { title: "官方站点", url: "https://www.bafangjie.cn" }
+  site: { title: "官方站点", url: "http://www.bafangjie.cn" }
 taobao:
   shope: { title: "官方站点", url: "https://shop527029490.taobao.com/" }
   goods:
